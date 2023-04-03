@@ -1,4 +1,4 @@
 ---
-title: "THIS IS FUCKIN MAGIC MAN"
-date: "6969-69-69"
+title: "THIS IS MAGIC"
+date: "123456789"
 ---
